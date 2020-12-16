@@ -1,1 +1,1 @@
-module "rocketchat-api-go"
+module "github.com/Liadun/rocketchat-api-go"
